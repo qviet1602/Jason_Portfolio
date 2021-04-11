@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Rental and Home Purchase Recommendations in the US
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Hospital amd Medical Providers Recommendation
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
