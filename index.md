@@ -7,7 +7,12 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/qviet1602/House_price_prediction)
 
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+<div style="text-align: justify">Most current web applications can browse homes by state, zip code but they cannot intuitively
+look at the U.S map and figure out a cheaper and safer place to live. The motivation behind this project is to help users who are looking to invest (buy/rent) in real estate, to be able to find affordable & safer places within the US. We are providing the following features
+1. An intuitive way for the user to find safer, affordable places on the map.
+2. Browse safer, affordable homes using a Graphical View representation.
+3. Viewing trends in rising home prices.
+4. Predictions of median home prices, classifying if a place is safer, affordable or not.</div>
 <br>
 <center><img src="images/ames-house-price.jpg"/></center>
 <br>
