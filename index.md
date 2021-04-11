@@ -9,10 +9,13 @@
 
 <div style="text-align: justify">Most current web applications can browse homes by state, zip code but they cannot intuitively
 look at the U.S map and figure out a cheaper and safer place to live. The motivation behind this project is to help users who are looking to invest (buy/rent) in real estate, to be able to find affordable & safer places within the US. We are providing the following features
-1. An intuitive way for the user to find safer, affordable places on the map.
-2. Browse safer, affordable homes using a Graphical View representation.
-3. Viewing trends in rising home prices.
-4. Predictions of median home prices, classifying if a place is safer, affordable or not.</div>
+<ol>
+<li>An intuitive way for the user to find safer, affordable places on the map.</li>
+<li>Browse safer, affordable homes using a Graphical View representation.</li>
+<li>Viewing trends in rising home prices.</li>
+ <li>Predictions of median home prices, classifying if a place is safer, affordable or not.</li>
+</ol>  
+ </div>
 <br>
 <center><img src="images/ames-house-price.jpg"/></center>
 <br>
