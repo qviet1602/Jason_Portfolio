@@ -28,9 +28,9 @@ look at the U.S map and figure out a cheaper and safer place to live. The motiva
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/qviet1602/medxoom_hospital_ranking)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 
-<div style="text-align: justify">Medical costs have been a heavy burden for U.S families and employers for decades. There are over 3 trillion dollars in medical costs every year in the U.S. Over the last decade, the healthcare deductibles have increased over 250% and medical bills are the first reason that causes consumer bankruptcy. It is always a daunting task to search for a good quality hospital with reasonable cost.  The motivation behind this project is to help customers navigate their benefits and make better healthcare choices by providing hospital rankings for all available hospitals in the US. Also, to rank the hospitals and help both Medicare providers and the consumers draw maximum benefit. </div>
+<div style="text-align: justify">Medical costs have been a heavy burden for U.S families and employers for decades. There are over 3 trillion dollars in medical costs every year in the U.S. Over the last decade, the healthcare deductibles have increased over 250% and medical bills are the first reason that causes consumer bankruptcy. It is always a daunting task to search for a good quality hospital with reasonable cost.  The motivation behind this project is to help customers navigate their benefits and make better healthcare choices by providing hospital rankings for all available hospitals in the US. </div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/correlation-matrix.jpg"/></center>
 <br>
 
 ---
