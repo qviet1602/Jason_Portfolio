@@ -5,6 +5,7 @@
 ### Rental and Home Purchase Recommendations in the US
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/qviet1602/rental_house_price_prediction)
+[![View My Presentation](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://youtu.be/QToEMdwCKKk)
 
 <div style="text-align: justify">Most current web applications can browse homes by state, zip code but they cannot intuitively
 look at the U.S map and figure out a cheaper and safer place to live. The motivation behind this project is to help users who are looking to invest (buy/rent) in real estate, to be able to find affordable & safer places within the US. We are providing the following features
@@ -16,7 +17,6 @@ look at the U.S map and figure out a cheaper and safer place to live. The motiva
 </ol>  
  </div>
 
-[![View My Poster Presentation](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://youtu.be/QToEMdwCKKk)
 <br>
 <center><img src="images/poster62421024_1.jpg"/></center>
 <br>
