@@ -15,6 +15,8 @@ look at the U.S map and figure out a cheaper and safer place to live. The motiva
  <li>Predictions of median home prices, classifying if a place is safer, affordable or not.</li>
 </ol>  
  </div>
+
+[![View My Poster Presentation](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://youtu.be/QToEMdwCKKk)
 <br>
 <center><img src="images/poster62421024_1.jpg"/></center>
 <br>
