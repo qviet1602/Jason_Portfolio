@@ -4,8 +4,8 @@
 
 ### Rental and Home Purchase Recommendations in the US
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/qviet1602/House_price_prediction)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/qviet1602/rental_house_price_prediction/blob/master/scripts/MLP%20%7C%20Linear%20Regression%20%7C%20Random%20Forest.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/qviet1602/rental_house_price_prediction)
 
 <div style="text-align: justify">Most current web applications can browse homes by state, zip code but they cannot intuitively
 look at the U.S map and figure out a cheaper and safer place to live. The motivation behind this project is to help users who are looking to invest (buy/rent) in real estate, to be able to find affordable & safer places within the US. We are providing the following features
