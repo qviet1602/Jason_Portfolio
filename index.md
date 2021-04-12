@@ -17,7 +17,7 @@ look at the U.S map and figure out a cheaper and safer place to live. The motiva
 </ol>  
  </div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/poster62421024_1.jpg"/></center>
 <br>
 
 ---
