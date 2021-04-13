@@ -32,6 +32,8 @@ look at the U.S map and figure out a cheaper and safer place to live. The motiva
 
 <br>
 <center><img src="images/medxoom.jpeg"/></center>
+<center><img src="images/correlation-matrix.png"/></center>
+
 <br>
 
 
