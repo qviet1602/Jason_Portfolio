@@ -30,8 +30,9 @@ look at the U.S map and figure out a cheaper and safer place to live. The motiva
 
 <div style="text-align: justify">Medical costs have been a heavy burden for U.S families and employers for decades. There are over 3 trillion dollars in medical costs every year in the U.S. Over the last decade, the healthcare deductibles have increased over 250% and medical bills are the first reason that causes consumer bankruptcy. It is always a daunting task to search for a good quality hospital with reasonable cost.  The motivation behind this project is to help customers navigate their benefits and make better healthcare choices by providing hospital rankings for all available hospitals in the US. </div>
 
+<br>
 <center><img src="images/medxoom.jpeg"/></center>
-
+<br>
 
 
 ---
